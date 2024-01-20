@@ -15,7 +15,7 @@ I am a software engineering student at Islamic Azad University in Mashhad.I am c
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔  💡 &nbsp; I am a web developer with experience in PHP.<br>
+✔  💡 &nbsp; I am a web developer in PHP.<br>
 ✔  🎓 &nbsp;  I have experience with various programming languages such as Java, Python, C++, and C#. I have even developed an application using Android Studio during my university studies.<br>
 ✔  🔰 I am highly interested in exploring emerging technologies and staying up-to-date with the latest advancements in the software development field.<br>
 <br>
