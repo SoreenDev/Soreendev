@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=soreemndev)
+![Profile Views](https://komarev.com/ghpvc/?username=soreendev)
  
 # welcome!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
@@ -6,12 +6,10 @@ I am a software engineering student at Islamic Azad University in Mashhad.I am c
 <br/>
 <br/>
 <p align="center">
-<img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Steve Jobs : "It is quite clear that the most valuable resource available to all of us is time."
-
-”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+<b><i align="center">Steve Jobs : "It is quite clear that the most valuable resource available to all of us is time."
+</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
  </p>
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
@@ -28,19 +26,9 @@ I am a software engineering student at Islamic Azad University in Mashhad.I am c
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
       <br/>
-      <a href="" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <a href="soreendev@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
-    </p>
-  <p align="center">
-      <a href="https://instagram.com/soreendev" target="blank"><img align="center"
-         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
-         alt="azzar" height="30"/></a>
-      <br>
-    </p>
+      <a href="https://t.me/soreendev" target="blank"><img align="center"
+         src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg"
+         alt="telegram" height="30"/></a>
   </samp>
 </div>
 </details>
