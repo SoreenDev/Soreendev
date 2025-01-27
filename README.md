@@ -15,7 +15,7 @@ I am a <b>PHP </b>Developer specializing in<b> Laravel</b>, passionate about bui
 ✔ 💡   I am a web developer in PHP with extensive experience in large CMS projects and designing complex APIs.<br>
 ✔ 🎓   I have experience with various programming languages such as Java, Python, C++, and C#. I also developed an application using Android Studio during my university studies.<br>
 ✔ 🔰   I am highly interested in exploring emerging technologies and staying up-to-date with the latest advancements in the software development field.<br>
-✔ 🛠️   I have significant experience working in teams and solving complex problems, always striving to improve my skills in programming and project management.<br>
+✔ 🛠️   I have significant experience working in teams and solving complex problems, always striving to improve my skills in programming.<br>
 
 <br>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
