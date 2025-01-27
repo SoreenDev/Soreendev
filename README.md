@@ -2,20 +2,21 @@
  
 # welcome!! <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
 <br/>
-I am a software engineering student at Islamic Azad University in Mashhad.I am currently learning the popular PHP framework, Laravel,Learning programming is exciting for me and enables me to create new and amazing things.
+I am a <b>PHP </b>Developer specializing in<b> Laravel</b>, passionate about building scalable and innovative web applications. I thrive on creating efficient solutions and exploring the latest trends in software development.
 <br/>
 <br/>
 <p align="center">
-<b><i align="center">Steve Jobs : "It is quite clear that the most valuable resource available to all of us is time."
-</i></b> 
+<b><i align="center">Steve Jobs : "It is quite clear that the most valuable resource available to all of us is time."</i></b> 
  </p>
 
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***About me ....***
 
-✔  💡 &nbsp; I am a web developer in PHP.<br>
-✔  🎓 &nbsp;  I have experience with various programming languages such as Java, Python, C++, and C#. I have even developed an application using Android Studio during my university studies.<br>
-✔  🔰 I am highly interested in exploring emerging technologies and staying up-to-date with the latest advancements in the software development field.<br>
+✔ 💡   I am a web developer in PHP with extensive experience in large CMS projects and designing complex APIs.<br>
+✔ 🎓   I have experience with various programming languages such as Java, Python, C++, and C#. I also developed an application using Android Studio during my university studies.<br>
+✔ 🔰   I am highly interested in exploring emerging technologies and staying up-to-date with the latest advancements in the software development field.<br>
+✔ 🛠️   I have significant experience working in teams and solving complex problems, always striving to improve my skills in programming and project management.<br>
+
 <br>
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
